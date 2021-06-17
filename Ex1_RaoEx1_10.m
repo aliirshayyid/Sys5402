@@ -1,5 +1,5 @@
 %Solves Example 1.10 of (Rao - old edition)
-%This code is edited By Fizza Shamin & Ali Irshayyid
+%This code is edited By Fizza Shamim & Ali Irshayyid
 % The problem description is as follows.
 % Minimize f1(X)=p*l*x1*x2 and
 % f2(X)=-sqrt(E*x1*(x2^3))/(4*(l^2)*(M+(33/140)*f1))
